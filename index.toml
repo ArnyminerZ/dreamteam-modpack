@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "dreamteam.jpeg"
+hash = "b7ae1766571c8852c52a9f2b084117817151f371031153d67f406e0e60c4fad0"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "47d32eec023f9d00f16bd5fba49778ad622dca453ec2306e8d1af2daf625b51f"
 metafile = true
@@ -158,6 +162,11 @@ metafile = true
 [[files]]
 file = "mods/corpse.pw.toml"
 hash = "8e671fbd3a5460a61073cced391ec08efc6b67d765e49015eea45a1f1db159a0"
+metafile = true
+
+[[files]]
+file = "mods/cosmetic-armor-reworked-forked.pw.toml"
+hash = "7986408c3b0338c3cd1d6c65dd4c957b5806120d9c0cf9ceeaa450a7ba8d0f5e"
 metafile = true
 
 [[files]]
@@ -333,6 +342,11 @@ metafile = true
 [[files]]
 file = "mods/dynamictreesplus.pw.toml"
 hash = "4a93fd011c8262378d2979e4d80ddbdcec2be73d65a1f22fd07924f4abbc5638"
+metafile = true
+
+[[files]]
+file = "mods/dynmap.pw.toml"
+hash = "27384777fbc6148353ea2542fc9922659bc7bb57e3c9f5290282c5885a534654"
 metafile = true
 
 [[files]]
@@ -773,6 +787,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
 hash = "90bece59b053f845509feea0e24ec42d4f0d5c026b59894d02c85bffa848f565"
+metafile = true
+
+[[files]]
+file = "mods/sort-it-out.pw.toml"
+hash = "9d1489ac5683ee17db8ce5290ca83b7bc6153889b6a0590e7e9b20097ad55cf0"
 metafile = true
 
 [[files]]
