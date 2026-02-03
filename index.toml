@@ -345,11 +345,6 @@ hash = "4a93fd011c8262378d2979e4d80ddbdcec2be73d65a1f22fd07924f4abbc5638"
 metafile = true
 
 [[files]]
-file = "mods/dynmap.pw.toml"
-hash = "27384777fbc6148353ea2542fc9922659bc7bb57e3c9f5290282c5885a534654"
-metafile = true
-
-[[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "9f511e824978b45d8d90244e921dafcbb9bc01d1e4aced66afac71740ffa5ff6"
 metafile = true
