@@ -1,0 +1,13 @@
+name = "Tab Info"
+filename = "tabinfo-1.0.0 1.21-1.21.5 neoForge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/LS20Llnw/versions/5jQD1vZI/tabinfo-1.0.0%201.21-1.21.5%20neoForge.jar"
+hash-format = "sha512"
+hash = "99c7c2a1333ffeca0a06db6bf8a037267a9117b19800cd99454b164debde135dd2aaa757d8a773bb7a09b39824a55a7e04efc55dd3233dc13489093a55a1a09a"
+
+[update]
+[update.modrinth]
+mod-id = "LS20Llnw"
+version = "5jQD1vZI"
