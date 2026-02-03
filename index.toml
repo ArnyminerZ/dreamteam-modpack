@@ -376,11 +376,6 @@ hash = "73a8d2c9acc370851795fb46dae3b3cc25ffdbd045cfd793cbb7700fa78f7630"
 metafile = true
 
 [[files]]
-file = "mods/extratabinfo.pw.toml"
-hash = "2e86778abccee84ce37056537f7e037fbbbe1880da6d9b75ab0f03eb632cfb1a"
-metafile = true
-
-[[files]]
 file = "mods/fallingleavesforge.pw.toml"
 hash = "e5125f8f2709fd20f8182fade3d7f9e7129872c63f042c5489c6eba4733b6b49"
 metafile = true
@@ -756,11 +751,6 @@ hash = "6b100c6847b82f48ac150816c2e9ce8fd590a4dc92a49e38634b7f6c6b5a2e71"
 metafile = true
 
 [[files]]
-file = "mods/sodium-dynamic-lights.pw.toml"
-hash = "c1e526d3d17cb3563e596d45c7567ed1fe60c31bdc3457f7a747ef8150bd3c1b"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "a1fb713df668ed21dda0602e99cb23b991c8faff841e130d7aae46258c3d6a45"
 metafile = true
@@ -818,6 +808,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "0078215075483e7aec1d4b533b14e5f0afc474ef4e8b9047a516215312e1628e"
+metafile = true
+
+[[files]]
+file = "mods/tabtps.pw.toml"
+hash = "48986d45465dc02a17d0d935900af61a75d2e7a96d2add0d00ac08a7b546aee7"
 metafile = true
 
 [[files]]
